@@ -29,7 +29,7 @@ Usage
 
 1. Register a Google account if you don't have one. Open Gmail and Google Voice accounts.
 
-2. Enable "forwarding SMS to Gmail" in your Google Voice
+2. Enable "forwarding SMS to Gmail" in your Google Voice.
 
 3. Edit `acc.info`. Put your Gmail address as first row, password as second row. 
 Be careful if you enabled 2-step verification. Also, watch out for security concerns.
