@@ -149,6 +149,7 @@ def readVotePattern(votePatternFile):
 
 if __name__ == "__main__":
     # initialize IMAP
+    print "Contacting Gmail ..."
     workingDir = "./"
     f = open("acc.info")
     accInfoList = []
