@@ -27,4 +27,6 @@ Usage
 
 1. Register a Google account if you don't have one. Open Gmail and Google Voice accounts.
 
-2. 
+2. Enable "fowarding to Gmail" in your Google Voice
+
+3. 
